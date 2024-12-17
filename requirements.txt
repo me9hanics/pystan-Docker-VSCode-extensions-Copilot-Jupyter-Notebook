@@ -3,3 +3,4 @@ ipykernel
 ipython
 jupyter
 seaborn
+arviz
